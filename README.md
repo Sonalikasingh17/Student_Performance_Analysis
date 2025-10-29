@@ -5,7 +5,7 @@
 ---
 
 This project analyzes student performance data to gain insights into the factors that influence academic outcomes.  
-It applies **data preprocessing, exploratory data analysis (EDA), and machine learning models** to predict and understand student success.
+It applies **data preprocessing, exploratory data analysis (EDA), and machine learning models** to predict and understand student success. 
 
 ---
 
